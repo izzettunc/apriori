@@ -1,0 +1,501 @@
+Data Quality Rating,Functional Size,Adjusted Function Points,Total Work Effort,Development Type,Package Customisation,Architecture,Web development,Development Platform,Language Type,Used Methodology,Resource Level
+B,Small,Low,Great,New Development,No,Stand alone,NonWeb,MF,3GL,No,1
+B,Big,High,Great,Enhancement,No,Stand alone,NonWeb,MF,ApG,Yes,4
+A,Small,Low,Little,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,1
+A,Small,Low,Great,Enhancement,Dont Know,Stand alone,NonWeb,MF,4GL,Yes,1
+A,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,PC,3GL,Yes,1
+A,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,4GL,No,1
+B,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MR,4GL,No,1
+B,Small,Low,Great,Enhancement,Dont Know,Client server,NonWeb,MF,3GL,Yes,1
+B,Big,High,Great,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,4
+A,Big,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,4GL,No,1
+B,Small,High,Great,New Development,No,Stand alone,NonWeb,MR,3GL,Yes,4
+B,Small,High,Little,Enhancement,Dont Know,Client server,NonWeb,MF,4GL,Yes,1
+B,Small,Low,Little,Enhancement,Dont Know,Client server,NonWeb,PC,4GL,Yes,1
+B,Big,Low,Great,New Development,No,Client server,NonWeb,MR,4GL,Yes,1
+A,Small,High,Great,Enhancement,Dont Know,Stand alone,NonWeb,MF,4GL,Yes,1
+B,Small,Low,Little,Enhancement,No,Multi-tier or Client server,NonWeb,Multi,4GL,No,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+B,Big,High,Great,New Development,No,Multi-tier,NonWeb,MF,3GL,No,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Little,New Development,Dont Know,Multi-tier with web public interface,Web,Multi,3GL,Yes,1
+B,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Big,High,Great,New Development,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+B,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,4GL,No,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Big,Low,Great,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+B,Small,Low,Little,New Development,Dont Know,Multi-tier or Client server,NonWeb,Multi,4GL,Yes,1
+B,Small,Low,Little,New Development,No,Stand alone,NonWeb,MF,3GL,No,1
+B,Small,Low,Great,Enhancement,Dont Know,Client server,NonWeb,MF,4GL,Yes,1
+D,Big,High,Little,Enhancement,No,Client server,NonWeb,MF,3GL,Yes,2
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,Web,MF,3GL,Yes,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,4GL,Yes,1
+B,Small,High,Little,Enhancement,No,Client server,NonWeb,PC,ApG,No,1
+B,Big,Low,Little,New Development,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+B,Small,Low,Little,Enhancement,Dont Know,Client server,NonWeb,MF,3GL,No,1
+B,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,ApG,Yes,4
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+D,Small,High,Great,New Development,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,4
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Great,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Little,Enhancement,Dont Know,Client server,NonWeb,MF,4GL,Yes,1
+B,Big,High,Great,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,4
+B,Small,Low,Little,New Development,No,Stand alone,NonWeb,MR,3GL,No,1
+A,Small,Low,Little,New Development,No,Stand alone,NonWeb,PC,4GL,Yes,1
+B,Small,Low,Little,New Development,No,Multi-tier or Client server,NonWeb,Multi,4GL,No,1
+B,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Big,Low,Great,New Development,Dont Know,Stand alone,NonWeb,MF,4GL,No,1
+B,Small,Low,Little,New Development,No,Multi-tier or Client server,NonWeb,Multi,3GL,No,1
+B,Small,Low,Little,New Development,No,Multi-tier or Client server,NonWeb,Multi,4GL,No,1
+B,Big,High,Little,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,2
+B,Small,Low,Little,Enhancement,Dont Know,Client server,NonWeb,MF,3GL,No,1
+A,Big,High,Little,New Development,No,Client server,NonWeb,MR,4GL,Yes,4
+A,Big,High,Little,New Development,Dont Know,Client server,NonWeb,MF,4GL,Yes,1
+B,Small,Low,Little,New Development,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+B,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,3GL,No,1
+B,Small,Low,Great,Enhancement,No,Client server,NonWeb,MF,3GL,Yes,4
+B,Small,Low,Little,Enhancement,Yes,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Small,High,Little,New Development,Dont Know,Client server,NonWeb,PC,3GL,No,4
+B,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,4
+B,Big,Low,Little,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Small,High,Little,New Development,No,Client server,NonWeb,PC,4GL,No,1
+A,Small,Low,Little,New Development,No,Client server,NonWeb,MR,3GL,Yes,2
+A,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,4GL,No,1
+B,Small,Low,Little,Re-development,Dont Know,Multi-tier,NonWeb,MF,3GL,Yes,4
+B,Small,Low,Little,New Development,Dont Know,Stand alone,NonWeb,PC,3GL,No,4
+B,Big,High,Great,Re-development,No,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Big,Low,Great,New Development,Yes,Client server,NonWeb,MF,3GL,Yes,1
+D,Big,High,Little,Enhancement,No,Client server,NonWeb,MF,3GL,Yes,2
+A,Small,Low,Little,New Development,No,Stand alone,NonWeb,MF,ApG,Yes,4
+B,Small,Low,Little,New Development,No,Stand alone,NonWeb,MF,4GL,Yes,4
+B,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,4
+B,Small,Low,Little,Enhancement,Dont Know,Client server,NonWeb,MF,4GL,No,1
+C,Small,Low,Little,New Development,No,Stand alone,NonWeb,MR,3GL,No,1
+B,Small,Low,Little,Enhancement,Yes,Client server,NonWeb,MF,4GL,No,1
+B,Small,Low,Little,New Development,Dont Know,Client server,NonWeb,PC,4GL,Yes,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,4
+B,Small,High,Great,New Development,No,Client server,NonWeb,PC,3GL,Yes,4
+B,Small,Low,Little,New Development,Dont Know,Multi-tier with web public interface,Web,Multi,3GL,Yes,1
+B,Big,Low,Great,Enhancement,No,Multi-tier or Client server,NonWeb,Multi,3GL,No,1
+B,Small,Low,Little,New Development,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+A,Big,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,4GL,No,1
+A,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,4GL,Yes,1
+C,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MR,4GL,Yes,1
+B,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,3GL,No,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+A,Big,High,Great,New Development,Yes,Stand alone,NonWeb,MR,3GL,Yes,1
+D,Small,Low,Little,New Development,No,Multi-tier or Client server,NonWeb,Multi,3GL,No,1
+B,Big,High,Great,New Development,No,Client server,NonWeb,MF,3GL,Yes,4
+A,Big,High,Great,Enhancement,No,Stand alone,NonWeb,MF,4GL,No,1
+B,Big,Low,Little,Enhancement,No,Multi-tier or Client server,NonWeb,Multi,4GL,No,1
+B,Small,Low,Little,New Development,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+A,Small,High,Little,New Development,Dont Know,Client server,NonWeb,PC,4GL,Yes,1
+B,Small,Low,Little,New Development,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+B,Small,Low,Little,Enhancement,Yes,Stand alone,NonWeb,PC,3GL,Yes,1
+B,Small,Low,Little,Enhancement,No,Multi-tier or Client server,NonWeb,Multi,3GL,No,1
+B,Small,Low,Little,New Development,Dont Know,Multi-tier with web public interface,Web,Multi,3GL,Yes,1
+B,Small,Low,Little,Enhancement,Dont Know,Multi-tier or Client server,NonWeb,Multi,4GL,Yes,1
+A,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Little,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,4
+B,Big,High,Great,New Development,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+A,Small,Low,Great,Enhancement,Dont Know,Stand alone,NonWeb,MF,4GL,Yes,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Big,Low,Little,New Development,No,Stand alone,Web,MR,3GL,No,1
+B,Big,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Little,Enhancement,No,Multi-tier,NonWeb,MF,3GL,Yes,1
+A,Small,Low,Great,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Big,Low,Little,Enhancement,No,Multi-tier or Client server,NonWeb,Multi,4GL,No,1
+A,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,3GL,No,2
+B,Small,High,Little,New Development,No,Client server,NonWeb,MF,3GL,No,2
+A,Big,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,4GL,No,1
+B,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,3GL,No,1
+B,Small,Low,Little,New Development,No,Stand alone,Web,PC,3GL,No,1
+B,Small,Low,Great,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,4
+B,Small,Low,Little,Enhancement,Dont Know,Multi-tier or Client server,NonWeb,Multi,4GL,Yes,1
+A,Small,Low,Little,New Development,No,Client server,NonWeb,MR,4GL,Yes,2
+A,Big,High,Little,New Development,No,Stand alone,NonWeb,MF,ApG,Yes,1
+B,Small,Low,Little,New Development,No,Stand alone,NonWeb,MF,4GL,Yes,1
+B,Big,Low,Little,New Development,No,Multi-tier or Client server,NonWeb,Multi,4GL,No,1
+D,Small,Low,Little,New Development,No,Stand alone,NonWeb,MR,4GL,No,2
+B,Small,Low,Little,New Development,Dont Know,Multi-tier with web public interface,Web,Multi,3GL,Yes,1
+B,Small,Low,Little,New Development,No,Stand alone,Web,MR,3GL,No,1
+B,Big,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,3GL,No,1
+B,Small,Low,Great,Enhancement,Dont Know,Stand alone,NonWeb,PC,3GL,Yes,1
+A,Small,Low,Little,Enhancement,Dont Know,Client server,NonWeb,PC,4GL,Yes,1
+A,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,4GL,Yes,1
+B,Small,Low,Little,New Development,No,Stand alone,NonWeb,MF,ApG,Yes,4
+A,Big,High,Little,Enhancement,Dont Know,Stand alone,NonWeb,MR,4GL,Yes,1
+B,Big,High,Great,Enhancement,Dont Know,Client server,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Little,New Development,No,Client server,NonWeb,MF,4GL,No,1
+B,Small,Low,Little,New Development,No,Stand alone,NonWeb,MF,ApG,Yes,1
+A,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,1
+A,Small,Low,Little,Enhancement,Dont Know,Client server,NonWeb,MF,3GL,Yes,1
+A,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,4GL,No,1
+B,Small,Low,Little,New Development,No,Stand alone,NonWeb,PC,3GL,No,1
+B,Big,High,Little,New Development,No,Multi-tier or Client server,NonWeb,Multi,4GL,No,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+A,Small,Low,Little,New Development,No,Client server,NonWeb,MR,3GL,Yes,2
+B,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,3GL,No,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,ApG,No,1
+B,Small,Low,Little,New Development,Dont Know,Client server,NonWeb,MF,3GL,No,4
+B,Small,Low,Great,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Small,High,Little,New Development,No,Stand alone,NonWeb,PC,4GL,No,1
+B,Big,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+B,Big,Low,Little,New Development,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+B,Big,High,Little,Enhancement,No,Multi-tier or Client server,NonWeb,Multi,4GL,No,1
+B,Small,Low,Great,New Development,Dont Know,Stand alone,NonWeb,MF,4GL,No,1
+B,Small,Low,Little,New Development,Dont Know,Multi-tier or Client server,NonWeb,Multi,4GL,Yes,1
+B,Big,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,4GL,No,1
+B,Small,High,Great,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,4
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,Web,MF,3GL,No,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+A,Small,High,Great,Enhancement,Dont Know,Stand alone,NonWeb,MF,4GL,Yes,1
+A,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,4GL,Yes,1
+A,Small,Low,Little,New Development,No,Stand alone,NonWeb,PC,3GL,Yes,1
+B,Small,Low,Little,Enhancement,Dont Know,Multi-tier or Client server,NonWeb,Multi,4GL,Yes,1
+B,Small,Low,Little,Enhancement,Dont Know,Multi-tier with web public interface,Web,Multi,3GL,Yes,1
+B,Big,High,Great,New Development,No,Multi-tier,NonWeb,MF,3GL,Yes,2
+A,Big,Low,Little,New Development,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Big,High,Great,New Development,Dont Know,Stand alone,Web,MF,3GL,No,1
+B,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,3GL,No,1
+B,Small,Low,Little,Enhancement,No,Client server,NonWeb,PC,3GL,Yes,4
+A,Small,Low,Little,New Development,No,Stand alone,NonWeb,PC,4GL,No,3
+B,Big,Low,Little,New Development,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+B,Small,Low,Little,New Development,No,Stand alone,NonWeb,PC,4GL,Yes,1
+B,Small,Low,Little,Enhancement,No,Client server,NonWeb,MF,3GL,Yes,4
+B,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,3GL,No,1
+C,Small,Low,Great,Enhancement,Yes,Multi-tier,NonWeb,MF,3GL,Yes,1
+A,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,4GL,Yes,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Little,New Development,Dont Know,Client server,NonWeb,PC,4GL,Yes,1
+A,Big,High,Great,Enhancement,No,Stand alone,NonWeb,MF,3GL,No,4
+B,Small,Low,Little,Enhancement,Dont Know,Client server,NonWeb,MF,4GL,Yes,1
+A,Small,Low,Little,New Development,No,Stand alone,NonWeb,MF,4GL,No,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,Web,MF,3GL,Yes,1
+A,Small,Low,Little,New Development,No,Stand alone,NonWeb,PC,4GL,Yes,3
+B,Small,Low,Little,New Development,Dont Know,Client server,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Little,Enhancement,Dont Know,Multi-tier or Client server,NonWeb,Multi,4GL,Yes,1
+A,Small,Low,Little,New Development,Dont Know,Client server,NonWeb,MF,3GL,Yes,1
+A,Small,Low,Little,New Development,No,Client server,NonWeb,MR,4GL,Yes,2
+A,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,4GL,Yes,2
+A,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,2
+B,Small,Low,Little,New Development,No,Stand alone,NonWeb,MR,3GL,No,4
+B,Small,High,Great,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,2
+B,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Little,Enhancement,No,Multi-tier or Client server,NonWeb,Multi,3GL,No,1
+B,Small,High,Little,New Development,No,Client server,NonWeb,MR,4GL,No,1
+D,Big,High,Great,New Development,No,Stand alone,NonWeb,MF,ApG,Yes,4
+B,Small,Low,Great,New Development,No,Multi-tier or Client server,NonWeb,Multi,3GL,No,1
+B,Small,Low,Little,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,4
+B,Big,High,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,4GL,No,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+B,Small,Low,Great,New Development,Dont Know,Client server,Web,MF,3GL,No,1
+B,Big,High,Little,New Development,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+B,Small,Low,Little,New Development,No,Stand alone,NonWeb,MF,3GL,No,1
+B,Small,Low,Little,New Development,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+B,Big,High,Great,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+D,Big,High,Little,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,2
+B,Small,Low,Little,New Development,Yes,Stand alone,NonWeb,MF,3GL,Yes,4
+B,Small,Low,Little,Enhancement,No,Multi-tier or Client server,NonWeb,Multi,3GL,No,1
+B,Big,High,Great,New Development,Dont Know,Stand alone,NonWeb,MF,4GL,No,1
+B,Small,Low,Little,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,4
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+B,Small,Low,Little,Enhancement,Dont Know,Client server,NonWeb,MF,4GL,No,1
+B,Small,Low,Little,Enhancement,No,Multi-tier,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Little,New Development,Dont Know,Multi-tier,NonWeb,MF,4GL,Yes,4
+B,Big,High,Little,New Development,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+C,Small,High,Great,New Development,No,Stand alone,NonWeb,MF,3GL,No,1
+B,Small,Low,Little,Enhancement,Dont Know,Multi-tier or Client server,NonWeb,Multi,4GL,Yes,1
+A,Big,Low,Little,Enhancement,No,Client server,NonWeb,MF,3GL,Yes,2
+A,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,PC,4GL,Yes,1
+C,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,PC,3GL,Yes,2
+B,Small,Low,Little,New Development,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+A,Small,High,Great,Enhancement,No,Client server,NonWeb,MR,3GL,No,2
+B,Small,Low,Little,Enhancement,Dont Know,Multi-tier with web public interface,Web,Multi,3GL,Yes,1
+B,Small,Low,Little,Enhancement,Dont Know,Multi-tier with web public interface,Web,Multi,3GL,Yes,1
+B,Small,Low,Little,New Development,No,Stand alone,NonWeb,PC,4GL,Yes,4
+B,Small,Low,Little,New Development,No,Stand alone,NonWeb,MR,3GL,No,1
+B,Small,High,Great,New Development,No,Stand alone,NonWeb,MF,3GL,No,2
+B,Big,High,Great,New Development,No,Stand alone,NonWeb,MF,3GL,No,1
+B,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,3GL,No,1
+D,Big,Low,Little,New Development,No,Multi-tier or Client server,NonWeb,Multi,4GL,No,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+B,Small,Low,Little,New Development,Dont Know,Stand alone,Web,MF,3GL,No,1
+A,Big,High,Little,Enhancement,Dont Know,Client server,NonWeb,MR,3GL,No,1
+B,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,3GL,No,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,Web,MF,3GL,Yes,1
+A,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+A,Small,Low,Little,Re-development,No,Stand alone,NonWeb,PC,4GL,Yes,1
+A,Small,Low,Little,Enhancement,Dont Know,Client server,Web,PC,4GL,Yes,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+B,Big,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+A,Big,High,Little,Enhancement,Dont Know,Stand alone,NonWeb,PC,4GL,Yes,1
+A,Small,Low,Little,Enhancement,Dont Know,Client server,NonWeb,MF,3GL,Yes,4
+A,Small,High,Great,Enhancement,Dont Know,Stand alone,NonWeb,MF,4GL,Yes,1
+B,Small,Low,Little,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,4
+B,Big,Low,Little,New Development,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Little,Enhancement,No,Client server,NonWeb,PC,ApG,Yes,1
+B,Small,Low,Great,New Development,No,Stand alone,NonWeb,MF,3GL,No,1
+B,Big,High,Little,New Development,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+B,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,3GL,No,1
+D,Small,Low,Great,Enhancement,No,Stand alone,NonWeb,MF,3GL,No,1
+A,Small,Low,Little,New Development,Dont Know,Stand alone,NonWeb,MF,4GL,No,1
+C,Small,Low,Little,New Development,No,Stand alone,NonWeb,PC,4GL,Yes,4
+A,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,4GL,No,1
+B,Small,Low,Little,Enhancement,No,Multi-tier or Client server,NonWeb,Multi,4GL,No,1
+A,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,4GL,No,1
+B,Big,Low,Little,New Development,No,Stand alone,Web,PC,4GL,Yes,1
+A,Small,Low,Little,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,1
+A,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+D,Small,Low,Little,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+B,Small,Low,Little,Enhancement,Dont Know,Client server,NonWeb,MF,4GL,Yes,1
+B,Big,High,Great,New Development,No,Stand alone,Web,MR,3GL,No,1
+B,Big,High,Little,New Development,No,Multi-tier or Client server,NonWeb,Multi,4GL,No,1
+B,Small,Low,Little,New Development,Dont Know,Client server,Web,MF,3GL,No,1
+B,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,3GL,No,1
+B,Big,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+D,Small,Low,Little,New Development,No,Stand alone,NonWeb,MF,3GL,No,1
+B,Big,High,Little,New Development,No,Stand alone,Web,PC,4GL,No,1
+B,Small,Low,Little,Enhancement,No,Multi-tier or Client server,NonWeb,Multi,3GL,No,1
+B,Small,Low,Little,New Development,No,Stand alone,NonWeb,MF,3GL,No,1
+B,Small,Low,Great,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,4
+B,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Big,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,3GL,No,1
+B,Big,Low,Little,Enhancement,Dont Know,Stand alone,Web,MF,3GL,Yes,1
+B,Small,Low,Little,Enhancement,Dont Know,Client server,NonWeb,MF,4GL,No,1
+B,Small,High,Great,Re-development,No,Stand alone,NonWeb,MF,3GL,Yes,4
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+B,Small,Low,Great,Enhancement,Dont Know,Stand alone,NonWeb,MF,4GL,Yes,1
+B,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,4
+A,Big,High,Great,New Development,No,Stand alone,NonWeb,MF,ApG,Yes,1
+B,Small,Low,Little,New Development,Dont Know,Stand alone,NonWeb,PC,3GL,Yes,1
+B,Small,Low,Little,New Development,No,Multi-tier or Client server,NonWeb,Multi,4GL,No,1
+B,Small,Low,Little,Enhancement,Dont Know,Multi-tier with web public interface,Web,Multi,3GL,Yes,1
+A,Big,Low,Little,Enhancement,No,Client server,NonWeb,MF,3GL,Yes,2
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+B,Big,High,Great,New Development,No,Stand alone,NonWeb,PC,3GL,No,1
+A,Small,Low,Little,Enhancement,No,Multi-tier,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,4GL,No,1
+A,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,4GL,No,1
+B,Big,High,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+B,Big,High,Great,New Development,No,Multi-tier or Client server,NonWeb,Multi,3GL,No,1
+B,Small,High,Little,New Development,No,Client server,NonWeb,MF,4GL,No,1
+A,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,4GL,Yes,1
+B,Small,Low,Great,Enhancement,No,Multi-tier,NonWeb,MF,3GL,Yes,1
+B,Big,High,Little,New Development,No,Stand alone,Web,PC,4GL,No,1
+A,Small,Low,Little,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,2
+B,Small,Low,Little,Enhancement,Dont Know,Client server,NonWeb,MF,4GL,Yes,1
+B,Small,Low,Little,New Development,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,4
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Little,Enhancement,Dont Know,Client server,NonWeb,MF,4GL,No,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Big,Low,Great,New Development,No,Client server,Web,MR,3GL,No,4
+A,Small,Low,Great,Enhancement,No,Stand alone,NonWeb,MF,3GL,No,2
+A,Big,High,Great,New Development,Yes,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+D,Big,Low,Little,New Development,No,Multi-tier or Client server,NonWeb,Multi,4GL,No,1
+B,Small,Low,Little,Enhancement,Dont Know,Multi-tier with web public interface,Web,Multi,3GL,Yes,1
+B,Small,Low,Little,New Development,No,Stand alone,NonWeb,MF,3GL,No,1
+B,Small,High,Little,New Development,No,Client server,NonWeb,PC,4GL,No,1
+B,Small,Low,Little,Re-development,No,Client server,NonWeb,MF,3GL,Yes,4
+D,Big,High,Little,Enhancement,No,Client server,NonWeb,MF,3GL,Yes,2
+B,Small,Low,Great,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,2
+A,Big,High,Great,New Development,Yes,Stand alone,NonWeb,MR,4GL,Yes,1
+B,Big,High,Great,Enhancement,No,Stand alone,NonWeb,MF,ApG,Yes,4
+B,Small,Low,Little,Enhancement,Dont Know,Client server,NonWeb,MF,3GL,No,1
+A,Small,Low,Little,New Development,No,Stand alone,NonWeb,PC,4GL,Yes,4
+B,Big,High,Great,New Development,No,Stand alone,Web,MR,4GL,No,1
+A,Small,Low,Little,New Development,No,Stand alone,NonWeb,MR,4GL,No,4
+D,Big,High,Little,New Development,No,Client server,NonWeb,PC,4GL,Yes,1
+B,Small,Low,Little,Enhancement,Dont Know,Client server,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+A,Big,High,Great,Re-development,Yes,Client server,NonWeb,MF,3GL,Yes,1
+C,Big,High,Great,Enhancement,No,Stand alone,NonWeb,MF,4GL,Yes,1
+B,Small,Low,Great,New Development,Dont Know,Multi-tier or Client server,NonWeb,Multi,4GL,Yes,1
+B,Small,Low,Little,New Development,No,Multi-tier or Client server,NonWeb,Multi,3GL,No,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Big,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,3GL,No,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,4GL,Yes,1
+B,Big,High,Little,New Development,Dont Know,Client server,NonWeb,PC,4GL,No,1
+B,Big,High,Little,New Development,No,Client server,NonWeb,MF,3GL,Yes,1
+A,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,PC,4GL,Yes,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+B,Big,High,Little,New Development,No,Stand alone,Web,PC,4GL,No,1
+B,Small,Low,Little,New Development,No,Stand alone,NonWeb,MF,3GL,No,1
+A,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,4GL,Yes,1
+B,Big,Low,Great,Enhancement,Dont Know,Client server,NonWeb,MF,4GL,Yes,1
+B,Small,Low,Little,New Development,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+C,Small,High,Great,New Development,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,4
+B,Small,Low,Little,New Development,Dont Know,Client server,NonWeb,PC,3GL,Yes,4
+B,Small,Low,Little,Enhancement,Dont Know,Multi-tier or Client server,NonWeb,Multi,4GL,Yes,1
+B,Small,Low,Little,New Development,No,Stand alone,NonWeb,MF,4GL,Yes,1
+A,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Big,High,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+A,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,4GL,No,1
+A,Big,High,Little,New Development,No,Client server,NonWeb,PC,4GL,Yes,1
+A,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,4GL,Yes,1
+B,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,PC,4GL,No,1
+B,Small,Low,Great,Enhancement,Dont Know,Stand alone,Web,MF,3GL,No,1
+A,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+A,Big,Low,Great,Enhancement,Dont Know,Client server,NonWeb,MF,3GL,Yes,1
+B,Small,High,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Big,High,Little,Enhancement,No,Stand alone,NonWeb,MF,ApG,Yes,4
+A,Small,Low,Little,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,2
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,PC,ApG,Yes,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+A,Small,Low,Great,New Development,Dont Know,Client server,NonWeb,MR,3GL,Yes,1
+A,Big,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,4GL,Yes,2
+A,Small,Low,Little,New Utility,No,Stand alone,NonWeb,MF,3GL,Yes,4
+D,Small,Low,Little,New Development,No,Stand alone,NonWeb,PC,3GL,No,1
+B,Small,Low,Little,New Development,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+C,Small,High,Great,New Development,Dont Know,Stand alone,NonWeb,MR,3GL,No,4
+C,Small,Low,Little,Enhancement,No,Multi-tier,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Little,Enhancement,No,Client server,NonWeb,MF,ApG,Yes,1
+A,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,2
+B,Small,Low,Little,New Development,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+B,Small,Low,Little,New Development,Yes,Multi-tier,NonWeb,MF,4GL,Yes,4
+B,Big,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,3GL,No,1
+A,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MR,4GL,No,1
+B,Small,Low,Little,New Development,No,Stand alone,NonWeb,MF,3GL,No,1
+A,Small,Low,Little,Enhancement,No,Client server,NonWeb,MR,4GL,Yes,2
+A,Small,Low,Little,Enhancement,Yes,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Little,Enhancement,Dont Know,Multi-tier with web public interface,Web,Multi,3GL,Yes,1
+A,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,3GL,No,2
+A,Small,High,Great,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,1
+A,Small,Low,Little,New Development,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Big,Low,Little,New Development,No,Stand alone,Web,MR,3GL,No,1
+A,Small,Low,Great,Enhancement,Dont Know,Client server,NonWeb,MF,3GL,Yes,4
+A,Small,Low,Great,New Development,Dont Know,Client server,NonWeb,MF,3GL,Yes,1
+B,Big,High,Little,New Development,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,4GL,No,1
+A,Small,Low,Great,New Development,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+D,Small,Low,Little,New Development,No,Stand alone,NonWeb,MF,ApG,Yes,1
+A,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Little,New Development,Dont Know,Multi-tier with web public interface,Web,Multi,3GL,Yes,1
+A,Small,Low,Little,New Development,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Little,Enhancement,No,Multi-tier,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Little,New Development,No,Stand alone,NonWeb,MF,3GL,No,1
+A,Big,Low,Little,Re-development,Dont Know,Multi-tier with web public interface,Web,Multi,3GL,Yes,1
+A,Small,High,Great,New Development,Dont Know,Stand alone,NonWeb,MR,3GL,Yes,1
+B,Small,Low,Little,New Development,No,Multi-tier or Client server,NonWeb,Multi,3GL,No,1
+B,Small,Low,Little,Enhancement,No,Multi-tier or Client server,NonWeb,Multi,4GL,No,1
+B,Small,Low,Little,Enhancement,No,Multi-tier or Client server,NonWeb,Multi,3GL,No,1
+B,Small,Low,Great,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+A,Small,Low,Little,Enhancement,Dont Know,Client server,NonWeb,PC,4GL,Yes,1
+B,Big,Low,Little,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,1
+A,Big,High,Great,New Development,No,Stand alone,NonWeb,MF,ApG,Yes,1
+B,Small,Low,Little,New Development,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+B,Big,High,Great,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,1
+D,Small,Low,Little,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Little,Enhancement,Dont Know,Client server,NonWeb,MF,3GL,Yes,1
+A,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MR,3GL,Yes,1
+C,Small,Low,Little,Enhancement,No,Multi-tier,NonWeb,MF,2GL,Yes,1
+A,Big,Low,Great,Re-development,Dont Know,Client server,Web,PC,4GL,Yes,1
+A,Big,High,Great,New Development,No,Stand alone,NonWeb,MF,4GL,Yes,1
+B,Small,High,Great,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Little,Enhancement,No,Stand alone,Web,MR,3GL,No,1
+B,Small,Low,Little,Enhancement,Yes,Stand alone,NonWeb,MF,4GL,No,1
+B,Big,Low,Little,Enhancement,No,Stand alone,NonWeb,PC,3GL,No,1
+B,Big,High,Little,New Development,Yes,Stand alone,NonWeb,MF,4GL,No,1
+B,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,2GL,Yes,1
+A,Big,Low,Great,New Development,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+A,Big,Low,Great,New Development,Dont Know,Stand alone,NonWeb,PC,3GL,Yes,1
+C,Big,High,Great,Enhancement,No,Stand alone,NonWeb,PC,ApG,Yes,2
+B,Big,Low,Little,New Development,No,Multi-tier or Client server,NonWeb,Multi,4GL,No,1
+B,Small,Low,Little,Enhancement,Dont Know,Multi-tier or Client server,NonWeb,Multi,4GL,Yes,1
+B,Small,Low,Great,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+A,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MR,4GL,Yes,1
+A,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,4GL,Yes,1
+B,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,3GL,No,1
+A,Small,Low,Little,Enhancement,No,Multi-tier,NonWeb,MF,4GL,Yes,1
+B,Small,Low,Great,Enhancement,No,Client server,NonWeb,MF,3GL,No,1
+B,Small,Low,Great,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Big,High,Great,Enhancement,No,Multi-tier or Client server,NonWeb,Multi,3GL,No,1
+B,Small,Low,Little,Enhancement,Dont Know,Multi-tier with web public interface,Web,Multi,3GL,Yes,1
+B,Small,Low,Great,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Little,New Development,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+B,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,2
+A,Big,Low,Little,New Development,No,Stand alone,NonWeb,PC,4GL,Yes,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Big,High,Great,New Development,No,Multi-tier or Client server,NonWeb,Multi,4GL,No,1
+A,Big,Low,Little,New Development,No,Client server,NonWeb,MF,3GL,Yes,2
+C,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Little,New Development,No,Stand alone,NonWeb,MF,3GL,No,1
+B,Small,Low,Little,New Development,Dont Know,Stand alone,Web,MF,3GL,No,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Big,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,4GL,Yes,1
+B,Big,Low,Little,New Development,No,Stand alone,NonWeb,MR,4GL,Yes,1
+A,Small,Low,Little,New Development,Dont Know,Stand alone,NonWeb,PC,3GL,Yes,4
+A,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,3GL,No,1
+B,Big,Low,Little,New Development,No,Stand alone,NonWeb,MF,4GL,No,1
+A,Big,Low,Great,Re-development,Dont Know,Client server,NonWeb,PC,3GL,Yes,1
+B,Small,Low,Little,Enhancement,Dont Know,Client server,NonWeb,PC,4GL,Yes,1
+B,Big,High,Little,New Development,No,Multi-tier or Client server,NonWeb,Multi,3GL,No,1
+B,Big,High,Little,New Development,No,Multi-tier or Client server,NonWeb,Multi,4GL,No,1
+B,Small,Low,Little,New Development,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+A,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,4GL,Yes,1
+B,Small,Low,Little,Enhancement,No,Multi-tier or Client server,NonWeb,Multi,3GL,Yes,1
+B,Big,High,Great,Enhancement,Dont Know,Stand alone,NonWeb,MF,4GL,Yes,4
+B,Big,High,Great,New Development,No,Multi-tier or Client server,NonWeb,Multi,4GL,No,1
+B,Big,Low,Great,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,1
+A,Small,High,Great,New Development,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Great,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Big,Low,Great,Enhancement,No,Client server,NonWeb,MF,3GL,Yes,4
+A,Small,Low,Little,Enhancement,Yes,Client server,NonWeb,MR,4GL,Yes,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,3GL,No,1
+B,Big,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,No,1
+B,Small,Low,Little,Enhancement,No,Multi-tier or Client server,NonWeb,Multi,3GL,No,1
+A,Small,Low,Little,Re-development,No,Stand alone,NonWeb,MF,3GL,Yes,2
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,4GL,No,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+A,Small,Low,Little,New Development,No,Client server,NonWeb,PC,4GL,Yes,1
+A,Big,High,Great,New Development,No,Stand alone,NonWeb,PC,4GL,Yes,4
+B,Small,Low,Little,Enhancement,No,Client server,NonWeb,MF,4GL,No,1
+B,Small,Low,Great,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Little,Enhancement,Dont Know,Client server,NonWeb,MF,4GL,Yes,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,Web,MF,3GL,Yes,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Big,High,Great,New Development,No,Stand alone,NonWeb,MF,4GL,Yes,2
+B,Small,Low,Little,Enhancement,Dont Know,Multi-tier with web public interface,Web,Multi,3GL,Yes,1
+A,Big,Low,Little,Enhancement,Dont Know,Client server,Web,MF,3GL,Yes,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,Web,MF,3GL,No,1
+A,Small,Low,Little,Enhancement,Dont Know,Client server,Web,MF,3GL,No,1
+A,Big,High,Great,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,1
+C,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MR,3GL,No,1
+C,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Big,Low,Great,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Small,High,Little,Re-development,No,Client server,NonWeb,PC,3GL,Yes,4
+B,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,PC,3GL,No,1
+A,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MR,3GL,Yes,1
+A,Small,Low,Little,New Development,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Little,New Development,No,Stand alone,NonWeb,MR,3GL,No,1
+A,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,4GL,Yes,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+A,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,3GL,No,1
+A,Small,Low,Little,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,1
+C,Small,Low,Little,New Development,No,Stand alone,NonWeb,MF,2GL,No,1
+B,Small,Low,Little,New Development,Dont Know,Multi-tier with web public interface,Web,Multi,3GL,Yes,1
+B,Small,Low,Little,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,4
+C,Big,High,Little,New Development,No,Multi-tier or Client server,NonWeb,Multi,3GL,No,1
+B,Small,High,Great,Enhancement,Yes,Stand alone,NonWeb,MR,4GL,No,1
+B,Small,Low,Little,Enhancement,No,Multi-tier,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Little,Enhancement,No,Multi-tier or Client server,NonWeb,Multi,3GL,No,1
+A,Small,Low,Little,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Small,Low,Little,Enhancement,Dont Know,Stand alone,NonWeb,MF,4GL,Yes,1
+B,Small,Low,Little,New Development,Yes,Stand alone,NonWeb,MF,3GL,Yes,1
+B,Big,Low,Little,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,1
+D,Small,Low,Little,New Development,No,Stand alone,NonWeb,MF,3GL,No,4
