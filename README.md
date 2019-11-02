@@ -7,9 +7,9 @@
     An association rule learning application that uses Apriori algorithm
     <br />
     <br />
-    <a href="https://github.com/izzettunc/aprior/issues">Report Bug</a>
+    <a href="https://github.com/izzettunc/apriori/issues">Report Bug</a>
     ·
-    <a href="https://github.com/izzettunc/aprior/issues">Request Feature</a>
+    <a href="https://github.com/izzettunc/apriori/issues">Request Feature</a>
   </p>
 </p>
 
